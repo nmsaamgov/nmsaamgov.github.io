@@ -1,5 +1,6 @@
 ---
 title: NMSAAM Governance Committee Charter
+date: 2019-11-13
 ---
 
 # Article I: Mission
