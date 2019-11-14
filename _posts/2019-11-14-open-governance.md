@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Information Wants to be Free"
+title: "Information Wants to be Free"
 date: 2019-11-14
 ---
 
