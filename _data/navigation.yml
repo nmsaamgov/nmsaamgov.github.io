@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Updates
+  link: /updates.html
+- name: nmsaam.org
+  link: https://nmsaam.org
