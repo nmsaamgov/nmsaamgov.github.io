@@ -8,9 +8,18 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <h1>N M S A A M</h1>
-      <em>P.O. Box 91353 | Albuquerque, NM 87199 | governance@nmsaam.org</em>
       <div class="wrapper">
+        <div style="text-align:center">
+          <h1 style="margin-bottom:0px">N M S A A M</h1>
+          <em>P.O. Box 91353 | Albuquerque, NM 87199 |
+            <a href="mailto:governance@nmsaam.org">governance@nmsaam.org</a>
+          </em>
+          <hr />
+          <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        </div>
+        <strong>Last Updated: </strong>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
         {{ content }}
       </div>
     </main>

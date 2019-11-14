@@ -1,6 +1,6 @@
 ---
 layout: charter
-title: NMSAAM Governance Committee Charter
+title: Governance Committee Charter
 date: 2019-11-13
 ---
 
