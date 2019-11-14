@@ -47,9 +47,9 @@ committee
 
 # Article III: Governance and Authority
 
-Article IX Section II of the by-laws of The Society authorizes the
-president to appoint ad hoc committees. The governance committee is
-appointed as an ad hoc committee.
+Article IX Section II of the by-laws authorizes the president to
+appoint ad hoc committees. The governance committee is appointed as an
+ad hoc committee.
 
 It is the intent of the Governance committee to petition for permanent
 committee status within The Society at the 2020 annual meeting. 
@@ -64,9 +64,8 @@ supersede this charter.
 
 ### IV.1.1 Appointment of Chairperson
 
-The chairperson shall be appointed by the president. The chairperson
-shall be approved by The Board at the first regular meeting of The
-Board after appointment.
+The chairperson shall be appointed by the president, and approved by
+The Board.
 
 ### IV.1.2 Chairperson Term
 
@@ -82,27 +81,25 @@ a quorum.
 
 ### IV.1.4 Acting Chairperson
 
-A chairperson appointed by the president shall act as the chairperson
-of the committee until approved by The Board. In the event of vacancy,
-for any reason including recall, the president shall appoint an acting
-chairperson. 
+In the event of vacancy, for any reason including recall, the
+president shall appoint an acting chairperson; who will act as the
+chairperson until the next regular meeting of The Board. 
 
-## V Section 2 Members
+## IV Section 2 Members
 
 ### IV.2.1 Appointment and Number of Members
 
-The chair shall appoint members of the committee such that the total
-number of committee members is not less than three (3) and not greater
-than seven (7). Members of the committee shall be members of The
-Society in good standing. Members shall serve a term of 1 year. 
+The chairperson shall appoint members of the committee such that the
+total number of committee members is not less than three (3) and not
+greater than seven (7). Members of the committee shall be approved by
+The Board. Members of the committee shall be members of The Society in
+good standing. Members shall serve a term of 1 year, unless recalled.
 
-### IV.2.2 Approval and Recall of Members
+### IV.2.2 Recall of Members
 
-Members of the committee shall be approved by The Board at the first
-meeting of The Board after appointment. Members may be recalled and
-removed either by the chairperson of the committee or by a majority of
-board members present at a regularly scheduled meeting of The
-Board.
+Members may be recalled and removed either by the chairperson of the
+committee or by a majority of board members present at a regularly
+scheduled meeting of The Board.
 
 ### IV.2.3 Chairperson as Member
 
@@ -116,7 +113,7 @@ shall be considered as a member of the committee for all purposes.
 # Article V: Meetings
 
 The committee shall meet at least once every three (3)
-months. Meetings may be conducted in person, or by phone at the, or by
+months. Meetings may be conducted in person, or by phone, or by
 electronic means determined by the committee, at the direction of the
 chairperson. A majority shall constitute a quorum for all meetings of
 the committee; the committee shall not conduct business without a
@@ -131,8 +128,8 @@ notice of any scheduled meeting.
 ## V Section 2 Record of Meetings
 
 The committee shall publish a report of each meeting of the
-committee. These reports shall be available to any member of The
-Society in good standing upon request, and shall include at a minimum:
+committee. The report shall be available to any member of The Society
+in good standing upon request, and shall include at a minimum:
 
 1. The members present
 2. A list of topics discussed
@@ -221,10 +218,11 @@ shall publish the following:
    The Society or %10 of the membership of The Society, whichever is
    greater. The committee will present any such petition to the
    membership at the annual meeting. 
-4. If the board recommendations are not contested by 5 members or %10
-   of the membership, whichever is greater, **at least ten (10) days**
-   prior to the annual meeting; the membership shall be considered to
-   approve the recommendation of the committee at the annual meeting.
+4. If the recomendation of the committee is not contested by 5 members
+   or %10 of the membership, whichever is greater, **at least ten (10)
+   days** prior to the annual meeting: the membership shall be
+   considered to approve the recommendation of the committee at the
+   annual meeting.
 
 ## VI Section 3 Succession Planning
 
