@@ -1,5 +1,5 @@
 ---
-title: NMSAAM Governance Committee
+title: NMSAAM Governance Committee Charter
 ---
 
 # Article I: Mission
