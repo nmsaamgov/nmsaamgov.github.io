@@ -8,3 +8,7 @@ considered the authoritative version.
 You may obtain the documents with the standard command
 
     git clone https://github.com/nmsaamgov/nmsaamgov.github.io
+
+Of course, the cool kids use ssh
+    
+	git clone git@github.com:nmsaamgov/nmsaamgov.github.io.git
