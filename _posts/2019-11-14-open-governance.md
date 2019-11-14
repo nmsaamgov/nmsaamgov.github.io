@@ -2,6 +2,7 @@
 layout: post
 title: "Information Wants to be Free"
 date: 2019-11-14
+author: Steven Malins
 ---
 
 This site is the beginning of a documentation process for the New
