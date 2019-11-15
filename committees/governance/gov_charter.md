@@ -6,7 +6,8 @@ date: 2019-11-13
 
 # Article I: Mission
 
-Society for Acupuncture and Asian Medicine (The Society) Through
+To facilitate the efficient and continuous governance of the Society
+for Acupuncture and Asian Medicine (The Society) Through:
 
 The development and maintenance of clear and concise policies and
 procedures that reflect the current practices of The Society and
