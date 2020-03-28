@@ -10,7 +10,7 @@ a not for profit corporation (501c6) incorporated in the state of New
 Mexico.
 
 **Are you in the right place?** This is the site for the governing
-documents and policies of NMSAAM, ibcluding by-laws, commitee
+documents and policies of NMSAAM, including by-laws, committee
 charters, board notices, and important updates regarding the overall
 structure of the organization. If that's not what you are here for,
 perhaps the links below can help you:
@@ -45,4 +45,4 @@ The following committees have their governance documents online here:
 
 ### Governance Committee
 
-(Comming Soon!) 
+(Coming Soon!) 
