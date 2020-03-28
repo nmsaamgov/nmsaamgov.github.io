@@ -138,7 +138,7 @@ clinic listed, should be sufficient; it is not necessary for each
 acupuncturist at a clinic to submit a report;</li>
 
 <li>If the acupuncturist or clinic does not have any inventory of PPE,
-they may send a statemet stating so to the Department of Health;</li>
+they may send a statement stating so to the Department of Health;</li>
 
 <li>Reports should be submitted to <a
 href="mailto:Section.DOC-Planning@state.nm.us">Section.DOC-Planning@state.nm.us</a>;</li></ol></li>
