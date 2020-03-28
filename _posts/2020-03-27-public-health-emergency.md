@@ -19,19 +19,19 @@ Health Emergency Response Act.
 
 On **March 23, 2020**, Kathyleen M Kunkel, Cabinet Secretary for the
 New Mexico Department of Health, on direction from the Governor
-pursuant to *EO 2020-004* issued a []Public health emergency order
+pursuant to *EO 2020-004* issued a <u>Public health emergency order
 closing all businesses and non-profit entities except for those deemed
 essential and providing additional restriction on mass gatherings due
-to COVID -19[]; which gave a list of essential businesses and ordered
+to COVID -19</u>; which gave a list of essential businesses and ordered
 all other businesses to close and for New Mexico citizens to remain at
 home unless engaging in essential business.
 
 On **March 24, 2020,** Kathyleen M Kunkel, Cabinet Secretary for the
 New Mexico Department of Health, on direction from the Governor
-pursuant to *EO 2020-004* issued a []Public health emergency order
+pursuant to *EO 2020-004* issued a <u>Public health emergency order
 imposing temporary restrictions on non-essential health care services,
 procedures, and surgeries; providing guidance on those restrictions;
-and requiring a report from certain health care providers;[]
+and requiring a report from certain health care providers</u>;
 prohibiting all health care providers, including Doctors of Oriental
 Medicine, from providing non-essential health care services;
 "non-essential health care services, procedures, and surgeries" are
@@ -43,9 +43,9 @@ report to the Department of Health.
 
 On **March 24, 2020**, Kathyleen M Kunkel, Cabinet Secretary for the
 New Mexico Department of Health, on direction from the Governor
-pursuant to *EO 2020-004* issued a []Public health emergency order
+pursuant to *EO 2020-004* issued a <u>Public health emergency order
 temporarily regulating the sale and distribution of personal
-protective equipment due to shortages caused by COVID-19[]; which
+protective equipment due to shortages caused by COVID-19</u>; which
 prevents health care providers, including Doctors of Oriental
 Medicine, from selling, allocating, or otherwise distributing Personal
 Protective Equipment (PPE) without approval from the Department of
