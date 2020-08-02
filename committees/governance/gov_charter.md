@@ -1,7 +1,7 @@
 ---
 layout: charter
 title: Governance Committee Charter
-date: 2019-11-13
+date: 2020-08-01
 ---
 
 # Article I: Mission
