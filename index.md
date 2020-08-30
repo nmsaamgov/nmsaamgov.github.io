@@ -28,7 +28,7 @@ perhaps the links below can help you:
 Primary contact information for NMSAAM is at the main website
 [nmsaam.org](https://nmsaam.org). To contact the governance committee,
 you can email us at
-[governance@nmsaam.org](mailto:governance@nmsaam.org} Our mailing
+[governance@nmsaam.org](mailto:governance@nmsaam.org) Our mailing
 address is: 
 
 <pre>
