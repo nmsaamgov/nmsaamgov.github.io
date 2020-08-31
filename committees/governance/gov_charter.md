@@ -78,8 +78,7 @@ chairperson may serve.
 ### IV.1.3 Recall of Chairperson
 
 The chairperson may be recalled and removed by majority of those
-present at an appropriately called meeting of The Board, where there is
-a quorum.
+present at an appropriately called meeting of The Board.
 
 ### IV.1.4 Acting Chairperson
 
@@ -111,6 +110,12 @@ The chairperson of the committee shall be a member of the committee
 
 The president shall be an ex-officio member of the committee, and
 shall be considered as a member of the committee for all purposes.
+
+### IV.2.5 Past President as Member
+
+The immediate past president of the society shall be an ex-officio
+member of the committee, and shall be considered as a member of the
+committee for all purposes. 
 
 # Article V: Meetings
 
