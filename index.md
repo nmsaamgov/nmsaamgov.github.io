@@ -45,4 +45,4 @@ The following committees have their governance documents online here:
 
 ### Governance Committee
 
-(Coming Soon!) 
+[Governance Committee Documents](/committees/governance/)
