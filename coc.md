@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: NMSAAM Code of Conduct
 date: 2020-09-27
 ---
