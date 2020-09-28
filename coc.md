@@ -1,7 +1,7 @@
-----
+---
 layout: default
 title: NMSAAM Code of Conduct
-date:2020-09-27
+date: 2020-09-27
 ---
 
 The mission of the New Mexico Society of Acupuncture and Asian
