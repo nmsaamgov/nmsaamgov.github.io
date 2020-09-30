@@ -8,8 +8,8 @@ The mission of the New Mexico Society of Acupuncture and Asian
 Medicine (NMSAAM) is to promote the profession of acupuncturists and
 the inclusion of professional acupuncturists as an integral part of
 the health-care system of our communities. A foundational part of that
-mission is the promotion of open, profession, and collegial discussion
-between acupuncturists.
+mission is the promotion of open, professional, and collegial
+discussion between acupuncturists.
 
 This Code of Conduct provides an overview of the general rules and
 policies that are consistent with the high standards of business
