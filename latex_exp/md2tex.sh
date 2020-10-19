@@ -1,0 +1,12 @@
+pandoc "$1" \
+    -s \
+    -f markdown+yaml_metadata_block \
+    -t latex \
+    --include-in-header nmsaam_h.tex \
+    --include-before-body nmsaam_b.tex \
+    -V linkcolor:blue \
+    -V geometry:a4paper \
+    -V geometry:margin=2.5cm \
+    -V mainfont="DejaVu Serif" \
+    -V monofont="DejaVu Sans Mono" \
+    -o "$2"
