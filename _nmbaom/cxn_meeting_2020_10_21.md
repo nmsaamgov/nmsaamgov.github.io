@@ -6,8 +6,8 @@ author: "Steven Malins, DOM"
 ---
 
 # Administrativia
-The New Mexico Board of Acupuncture and Asian Medicine scheduled a
-regular board meeting for the 21st of Ocotober at 9am MDT. The meeting
+The New Mexico Board of Acupuncture and Oriental Medicine scheduled a
+regular board meeting for the 21st of October at 9am MDT. The meeting
 was scheduled to take place via cisco webex due to the ongoing public
 health emergency. An agenda was provided 72 hours in advance, and
 connection information was posted on the board website.
@@ -24,7 +24,7 @@ Ernest Dole
 Ray Garcia  
 
 # Lack of Quorum
-Three borad members were present at 0901, the chair asked for a quorum
+Three board members were present at 0901, the chair asked for a quorum
 and was informed by the board administrator that there was not a
 quorum.
 
