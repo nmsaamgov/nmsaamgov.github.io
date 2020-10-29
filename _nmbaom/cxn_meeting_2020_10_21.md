@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "No Meeting"
 date: 2020-10-21
 author: "Steven Malins, DOM"
-layout: post
 ---
 
 # Administrativia

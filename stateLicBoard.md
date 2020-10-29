@@ -1,6 +1,6 @@
 ---
+layout: default
 title: "New Mexico Acupuncture Licensing Board
-layout: page
 ---
 
 *Acupuncturists* are licensed as Doctors of Oriental Medicine in the
@@ -31,7 +31,7 @@ correctness or fitness for any particular purpose.
 <ul>
 {% for project in site.nmbaom %}
     <li>
-      <a href={{ project.path }}">- {{ project.name }}<a/>
+      <a href="{{ project.url }}">- {{ project.title }}<a/>
     </li>
   {% endfor %}
 </ul>
