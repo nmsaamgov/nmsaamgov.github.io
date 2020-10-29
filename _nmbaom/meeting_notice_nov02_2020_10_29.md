@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Meeting Notice Nov02
+layout: nmbaomp
+title: "Meeting Notice Nov02"
 date: 2020-10-29
 ---
 
