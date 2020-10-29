@@ -12,18 +12,15 @@ The Board is subject to the *Open Meetings Act* and the resolution
 implementing compliance with the OMA is
 [here](files/nmbaom/nmbaom_oma_2020.pdf)
 
+## Board Website
 
-----------------------------
+The offical website of The Board is located at  
+[www.rld.state.nm.us/boards/Acupuncture_and_Oriental_Medicine.aspx](http://www.rld.state.nm.us/boards/Acupuncture_and_Oriental_Medicine.aspx)
 
-**Disclaimer** Information provided here is not compiled, released,
-distributed, or overseen by the Board of Acupuncture and Oriental
-Medicine. It is **NOT** provided by the Regulation and Licensing
-Department or any other state government agency or department. It is
-provided as a service to the acupuncture profession by fellow
-professionals and is provided **as is** with no warranty or guarantee of
-correctness or fitness for any particular purpose. 
+Meeting notices can be found under the **Members and Meetings** link
+on the left hand side of that site. 
 
------------------------------
+{% include nmbd.html %}
 
 
 ## Updates And Reports
