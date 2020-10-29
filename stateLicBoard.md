@@ -1,5 +1,6 @@
 ---
 title: "New Mexico Acupuncture Licensing Board
+layout: page
 ---
 
 *Acupuncturists* are licensed as Doctors of Oriental Medicine in the
