@@ -32,7 +32,7 @@ correctness or fitness for any particular purpose.
 {% for project in site.nmbaom %}
     <li>
       <a href="{{ project.url }}">{{ project.title }}</a> : {{
-	  project.date }}
+	  project.date | date: '%B %d, %Y' }} 
     </li>
 {% endfor %}
 </ul>
