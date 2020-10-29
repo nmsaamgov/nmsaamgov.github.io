@@ -24,7 +24,8 @@ on the left hand side of that site.
 ## Updates And Reports
 
 <ul>
-{% for project in site.nmbaom %}
+{% assign items = site.nmbaom | sort: 'date' %}
+{% for project in items limit:6 %}
     <li>
       <a href="{{ project.url }}">{{ project.title }}</a> : {{
 	  project.date | date: '%B %d, %Y' }} 
