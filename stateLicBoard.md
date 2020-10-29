@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "New Mexico Acupuncture Licensing Board
 ---
 
@@ -31,7 +31,7 @@ correctness or fitness for any particular purpose.
 <ul>
 {% for project in site.nmbaom %}
     <li>
-      <a href="{{ project.url }}">- {{ project.title }}<a/>
+      <a href="{{ project.url }}">{{ project.title }}</a>
     </li>
-  {% endfor %}
+{% endfor %}
 </ul>
