@@ -5,7 +5,7 @@ pandoc "$1" \
     --include-in-header nmsaam_h.tex \
     --include-before-body nmsaam_b.tex \
     -V linkcolor:blue \
-    -V geometry:a4paper \
+    -V geometry:letterpaper \
     -V geometry:margin=2.5cm \
     -V mainfont="DejaVu Serif" \
     -V monofont="DejaVu Sans Mono" \
