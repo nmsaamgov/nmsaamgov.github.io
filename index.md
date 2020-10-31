@@ -21,6 +21,12 @@ perhaps the links below can help you:
 * [Join NMSAAM](https://nmsaam.org/membership-account/join-today/)
 * [American Society of Acupuncturists](https://www.asacu.org) NMSAAM's
   parent organization. 
+
+------------------------------------------------------------------------------
+The NMSAAM Board of Directors has approved the following **Code of Conduct**
+for the society. 
+
+[NMSAAM Code of Conduct](/coc)
   
 ------------------------------------------------------------------------------
 ## Contact
