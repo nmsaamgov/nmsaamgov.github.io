@@ -12,3 +12,10 @@ date: 2020-10-29
 See the [board
 website](http://www.rld.state.nm.us/boards/Acupuncture_and_Oriental_Medicine_Members_and_Meetings.aspx)
 for details.
+
+**Agenda Posted**
+
+The agenda for the meeting has been posted on the board website
+(above) and is reproduced here for convenience. 
+
+[NMBAOM Agenda 02 Nov 2020](/files/nmbaom/20201102nmbaom_agenda.pdf)
