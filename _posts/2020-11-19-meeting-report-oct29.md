@@ -3,6 +3,9 @@ title: "Governance Committee Report"
 date: 2020-10-29
 author: "Steven Malins, DOM (Committee Chair)"
 ---
+
+[![hackmd-github-sync-badge](https://hackmd.io/PZ-hLCh9QB2tLzWkW3Xk8w/badge)](https://hackmd.io/PZ-hLCh9QB2tLzWkW3Xk8w)
+
 **DRAFT** 
 
 ----
