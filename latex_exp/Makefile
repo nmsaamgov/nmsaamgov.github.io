@@ -1,2 +1,2 @@
 clean:
-		rm -f *.aux *.log *.pdf *.out *.tex
+		rm -f *.aux *.log *.pdf *.out
