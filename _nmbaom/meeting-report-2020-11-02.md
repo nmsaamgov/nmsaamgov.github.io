@@ -44,7 +44,7 @@ The agenda was approved by unanimous consent at **12:12pm**
 # Approval of Minutes
 
 Member Taylor moved to table approval of all minutes under consideration until the next meeting. 
-The reason given was to give absent board members time to review and comment on the minutes before approving them. 
+The reason given was to give absent board members time to review and comment on the minutes before approving them.  
 *The motion passed unanimously; 3-0 in favor*
 
 # New Business
@@ -57,30 +57,30 @@ Motion made to refer to rules committee and table item pending review by the com
 
 The board moved to direct RLD to send a email to the persons submitting items 2, 3, 4, and 5 under **New Business** **a)** on the agenda. 
 The email would reiterate the board's decision to automatically grant an extension for CPR and CEU requirements to 90 days after the expiration of the Executive Order declaring a public health emergency. 
-This notice is posted on the board website and has previously been emailed to all licensees. 
+This notice is posted on the board website and has previously been emailed to all licensees.  
 *The motion passed unanimously; 3-0 in favor*
 
-**6. Request for waiver of Hands-on CPR requirements due to Covid-19. Jesse Hoover**  
+**6. Request for waiver of Hands-on CPR requirements due to Covid-19.**  
 Member Taylor recused himself from this matter.  
 *The board agreed to table this matter because it lacked a quorum to take action on it.*
 
-**7. Request for waiver of annual and/or late fee, due to Covid and financial  reasons. Kay Quisenberry**  
-The board moved to deny this request.  
+**7. Request for waiver of annual and/or late fee, due to Covid and financial  reason.**  
+The board moved to **deny** this request.  
 *The motion passed unanimously; 3-0 in favor*
 
 **Item 8 under New Business a)**  
-Motion was made to table; it may be a duplicate of an item on the agenda for executive session, in which case it will be dealt with in executive session.
+Motion was made to **table**; it may be a duplicate of an item on the agenda for executive session, in which case it will be dealt with in executive session.
 If not, it is tabled until the next meeting.  
 *The motion passed unanimously; 3-0 in favor*
 
 ## b) Request exemption of NCCAOM  Herbal  Medicine
 
-Motion was made to deny the request.  
+Motion was made to **deny** the request.  
 *The motion passed unanimously; 3-0 in favor*
 
 ## c) Request to Accept CA Reciprocal Certificate In Place of NCCAOM
 
-Motion was made to table this request.  
+Motion was made to **table** this request.  
 *The motion passed unanimously; 3-0 in favor*
 
 # Executive Session
