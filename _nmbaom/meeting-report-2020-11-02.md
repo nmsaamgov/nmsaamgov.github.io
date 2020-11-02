@@ -5,6 +5,8 @@ date: 2020-11-02
 author: Steven Malnis, DOM
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/PRaWgE7IS1-u3uqksZtc6g/badge)](https://hackmd.io/PRaWgE7IS1-u3uqksZtc6g)
+
 # Administrativia
 
 The New Mexico Board of Acupuncture and Oriental Medicine, here after *the board* held a special meeting on Monday the 2nd of November at 12:00pm. 
@@ -83,7 +85,10 @@ Motion was made to table this request.
 
 # Executive Session
 
-Vice Chair **Taylor** made a motion that the *Board of Acupuncture and Oriental Medicine enter into Executive Session to discuss the items listed on the agenda, pursuant to Section 10-15-1-H(1) and (3) of the Open Meetings Act authorizing closed session for matters related to issuance, suspension, renewal, or revocation of a license.  
+Vice Chair **Taylor** made a motion that the 
+
+*Board of Acupuncture and Oriental Medicine enter into Executive Session to discuss the items listed on the agenda, pursuant to Section 10-15-1-H(1) and (3) of the Open Meetings Act authorizing closed session for matters related to issuance, suspension, renewal, or revocation of a license.*  
+
 The motion was seconded by member **Buckley**
 
 The board administrator took a roll call vote to enter into Executive Session
