@@ -117,7 +117,7 @@ The board returned from Executive Session at **13:16** Board Chair Chamberlin st
 
 # Next Meeting Date and Location
 
-The board moved to set the next meeting for **Wednesday the 27th of January, 2021**  
+The board moved to set the next meeting for **Wednesday the 27th of January, 2021 at 9am**  
 *The motion passed unanimously; 3-0 in favor*
 
 # Adjourn
