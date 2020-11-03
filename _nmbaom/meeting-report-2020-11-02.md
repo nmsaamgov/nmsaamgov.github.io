@@ -32,6 +32,7 @@ Thus the total number of board members is 5, and 3 members constitute a quorum.
 **Richard Espinoza**, Executive Director, Supervisor  
 **Martha Gallegos**, Team Leader  
 **Marah DeMeule**, Asst. Attorney General  
+**Sheila Harris**  
 
 # Call To Order
 
