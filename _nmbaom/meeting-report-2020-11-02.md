@@ -2,7 +2,7 @@
 layout: nmbaomp
 title: "Special Meeting 02 November"
 date: 2020-11-02
-author: Steven Malnis, DOM
+author: Steven Malins, DOM
 ---
 
 [![hackmd-github-sync-badge](https://hackmd.io/PRaWgE7IS1-u3uqksZtc6g/badge)](https://hackmd.io/PRaWgE7IS1-u3uqksZtc6g)
