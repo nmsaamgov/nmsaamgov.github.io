@@ -1,6 +1,6 @@
 ---
-title: "Governance Committee Report"
-date: 2020-09-17
+title: "Governance Committee Report: Sept 17th"
+date: 2020-10-29
 author: "Steven Malins, DOM (Committee Chair)"
 ---
 
