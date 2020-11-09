@@ -5,8 +5,6 @@ date: 2020-11-02
 author: Steven Malins, DOM
 ---
 
-[![hackmd-github-sync-badge](https://hackmd.io/PRaWgE7IS1-u3uqksZtc6g/badge)](https://hackmd.io/PRaWgE7IS1-u3uqksZtc6g)
-
 # Administrativia
 
 The New Mexico Board of Acupuncture and Oriental Medicine, here after *the board* held a special meeting on Monday the 2nd of November at 12:00pm. 
