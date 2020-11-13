@@ -242,3 +242,8 @@ annual meeting that includes:
    involvement of the membership of The Society in developing such
    changes
 4. Any other information requested by The Board or the president
+
+# Approval and Changes
+
+- Approved: **17th of September, 2020**
+- Amended: **19th of November, 2020**
