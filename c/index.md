@@ -11,7 +11,7 @@ good standing of The Society.
 
 See [NMSAAM By-Laws](/by_laws) Article IX Section II. 
 
-## Governance Committees
+## Governance Committee
 
 - **Chairperson:** Steven Malins, DOM
 - Contact: [governance@nmsaam.org](mailto:governance@nmsaam.org)
