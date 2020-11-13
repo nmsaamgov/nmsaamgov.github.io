@@ -47,11 +47,8 @@ USA
 
 -----------------------------------------------------------------------------
 ## Committees
-The following committees have their governance documents online here: 
 
-### Governance Committee
-
-[Governance Committee Documents](/committees/governance/)
+[Here](/c) is a list of all the active NMSAAM Committees.
 
 -----------------------------------------------------------------------------
 
