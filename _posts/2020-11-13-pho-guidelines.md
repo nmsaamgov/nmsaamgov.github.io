@@ -1,11 +1,8 @@
 ---
+title: "Clinical Guidelines For Practice Regarding Public Health Order Dated 13 November 2020"
 author: NMSAAM Board of Directors
 date: 2020-11-13
 ---
-
-[![hackmd-github-sync-badge](https://hackmd.io/ra3YxUOIRCazIpOg2Hbw0g/badge)](https://hackmd.io/ra3YxUOIRCazIpOg2Hbw0g)
-
-# Clinical Guidelines For Practice Regarding Public Health Order Dated 13 November 2020
 
 **FOR IMMEDIATE RELEASE**
 
