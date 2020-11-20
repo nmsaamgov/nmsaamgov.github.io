@@ -1,7 +1,7 @@
 ---
 layout: charter
 title: Governance Committee Charter
-date: 2020-08-01
+date: 2020-11-19
 ---
 
 # Article I: Mission
@@ -104,27 +104,21 @@ scheduled meeting of The Board.
 
 ### IV.2.3 Chairperson as Member
 
-The chairperson of the committee shall be a member of the committee
+The chairperson of the committee shall be a member of the committee.
 
-### IV.2.4 President as Member
+### IV.2.4 Ex-Officio Members
 
-The president shall be an ex-officio member of the committee, and
-shall be considered as a member of the committee for all purposes.
+The following shall be *ex-officio* members of the committee:
 
-### IV.2.5 Past President as Member
-
-The immediate past president of the society shall be an ex-officio
-member of the committee, and shall be considered as a member of the
-committee for all purposes. 
+1. The President
+2. The Immediate Past President of the Society 
 
 # Article V: Meetings
 
 The committee shall meet at least once every three (3)
 months. Meetings may be conducted in person, or by phone, or by
 electronic means determined by the committee, at the direction of the
-chairperson. A majority shall constitute a quorum for all meetings of
-the committee; the committee shall not conduct business without a
-quorum.
+chairperson.
 
 ## V Section 1 Notice and Schedule
 
@@ -132,7 +126,14 @@ The chairperson shall schedule the meetings of the committee and
 provide the members of the committee with at least **ten (10) days**
 notice of any scheduled meeting.
 
-## V Section 2 Record of Meetings
+## V Section 2 Quorum and Voting
+
+The presence of a majority of the members who are not *ex-officio*
+members of the committee constitutes a quorum. A majority of votes
+carries any action, except where provided otherwise in the by-laws of
+The Society or this charter. Proxy voting is not permitted. 
+
+## V Section 3 Record of Meetings
 
 The committee shall publish a report of each meeting of the
 committee. The report shall be available to any member of The Society
@@ -203,33 +204,28 @@ appointment at the annual meeting of The Society. At least **sixty
 (60) days** prior to the annual meeting of the Society, the committee
 shall publish the following:
 
-1. A list of members recommended for appointment to The Board
-2. A current CV for each recommended board member
-3. An current conflict of interest declaration for each recommended
-   board member. The conflict of interest declaration shall be signed
-   and updated at least once annually for each recommended board
-   member
-4. A letter of intent from each recommended board member, written or
-   updated within the past year
-5. A statement approved by a majority of the committee recommending the
-   members for appointment to The Board
+1. A list of all nominations, including self nominations, for officer
+   and board member positions of The Society that meet the following
+   criteria
+   1. Have submitted a conflict of interest statement to the committee
+      that has been reviewed by the committee
+   2. Have submitted a letter of intent to the committee
+2. A recommended ballot for voting
+3. A written proposal for motion to be voted on at the annual meeting
+   concerning officer and board member positions
+4. **All letters of intent received by the committee during the
+   nomination process**
 
-### VI.2.2 Approval or Contesting of Board Nominations
+### VI.2.2 Comment Period and Approval of Nominations
 
 1. The committee shall solicit comments on the recommended board
-   members from the membership.
+   members from the membership
 2. The committee shall publish all received comments **at least thirty
-   (30) days** prior to the annual meeting.
-3. Any member of The Society may contest the committee's recommendation
-   by submitting a petition approved (signed) by 4 other members of
-   The Society or %10 of the membership of The Society, whichever is
-   greater. The committee will present any such petition to the
-   membership at the annual meeting.
-4. If the recomendation of the committee is not contested by 5 members
-   or %10 of the membership, whichever is greater, **at least ten (10)
-   days** prior to the annual meeting: the membership shall be
-   considered to approve the recommendation of the committee at the
-   annual meeting.
+   (30) days** prior to the annual meeting
+3. The committee may, at its sole discretion, recommend a slate of
+   board members and officers to be approved at the annual meeting;
+   *the final election and appointment of board members shall, in any
+   case, be approved by the membership at the annual meeting*
 
 ## VI Section 3 Succession Planning
 
@@ -244,3 +240,8 @@ annual meeting that includes:
    involvement of the membership of The Society in developing such
    changes
 4. Any other information requested by The Board or the president
+
+# Approval and Changes
+
+- Approved: **17th of September, 2020**
+- Amended: **19th of November, 2020**
