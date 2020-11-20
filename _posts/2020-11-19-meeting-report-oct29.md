@@ -35,3 +35,9 @@ The committee approves of the code of conduct.
 1. The committee strongly recommends that the NMSAAM listserv be restricted to NMSAAM members only. 
 2. The committee recommends that the board instruct all standing committees to adopt a charter. The governance committee members will assist and provide a template charter or outline for other committees to use. 
 3. The committee recommends that the finance committee be separate from the governance committee; but that there will understandably be some overlap in membership of the two committees. 
+
+----------
+
+Respectfully sumbitted,  
+Steven Malins (committee chairperson)  
+**Approved** the 19th of November, 2020
