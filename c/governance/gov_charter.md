@@ -1,7 +1,7 @@
 ---
 layout: charter
 title: Governance Committee Charter
-date: 2020-08-01
+date: 2020-11-19
 ---
 
 # Article I: Mission
@@ -104,7 +104,7 @@ scheduled meeting of The Board.
 
 ### IV.2.3 Chairperson as Member
 
-The chairperson of the committee shall be a member of the committee
+The chairperson of the committee shall be a member of the committee.
 
 ### IV.2.4 Ex-Officio Members
 
@@ -118,9 +118,7 @@ The following shall be *ex-officio* members of the committee:
 The committee shall meet at least once every three (3)
 months. Meetings may be conducted in person, or by phone, or by
 electronic means determined by the committee, at the direction of the
-chairperson. A majority shall constitute a quorum for all meetings of
-the committee; the committee shall not conduct business without a
-quorum.
+chairperson.
 
 ## V Section 1 Notice and Schedule
 
