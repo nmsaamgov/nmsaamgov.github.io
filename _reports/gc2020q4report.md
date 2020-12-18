@@ -4,6 +4,9 @@ author: Steven Malins, DOM (Committee Chairperson)
 title: "Governance Committee Quarterly Report"
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/0DDhkkhBS-S9DxJ8OWdm2g/badge)](https://hackmd.io/0DDhkkhBS-S9DxJ8OWdm2g)
+
+
 ## Committee Members
 
 - Steven Malins, DOM *Chairperson*
