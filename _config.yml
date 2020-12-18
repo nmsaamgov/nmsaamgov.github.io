@@ -39,6 +39,9 @@ collections:
   nmbaom:
     output: true
     permalink: :slug/
+  reports:
+    output: true
+    permalink: :slug/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
