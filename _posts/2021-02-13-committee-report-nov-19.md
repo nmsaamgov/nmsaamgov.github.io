@@ -4,6 +4,9 @@ date: 2021-02-13
 author: "Steven Malins, DOM (Committee Chairperson)"
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/lOrneMCWS_uI1BvLD0mtiQ/badge)](https://hackmd.io/lOrneMCWS_uI1BvLD0mtiQ)
+
+
 ---
 
 **DRAFT**
