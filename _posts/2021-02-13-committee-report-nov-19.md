@@ -1,17 +1,10 @@
 ---
 title: "Governance Committee Report: Meeting Nov19, 2020"
-date: 2021-02-13
+date: "November 19, 2020"
 author: "Steven Malins, DOM (Committee Chairperson)"
 ---
 
-[![hackmd-github-sync-badge](https://hackmd.io/lOrneMCWS_uI1BvLD0mtiQ/badge)](https://hackmd.io/lOrneMCWS_uI1BvLD0mtiQ)
-
-
----
-
 **DRAFT**
-
----
 
 The governance committee met on the 19th of November, 2020 at 7pm MST.
 The following members were present:
