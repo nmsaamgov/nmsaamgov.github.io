@@ -1,11 +1,8 @@
 ---
-date: 2020-12-22
+date: "December 17, 2020"
 author: Steven Malins, DOM (Committee Chairperson)
-title: "Governance Committee Quarterly Report"
+title: "Governance Committee 2020 4th Quarter Report"
 ---
-
-[![hackmd-github-sync-badge](https://hackmd.io/0DDhkkhBS-S9DxJ8OWdm2g/badge)](https://hackmd.io/0DDhkkhBS-S9DxJ8OWdm2g)
-
 
 ## Committee Members
 
@@ -24,7 +21,7 @@ The Governance Committee is nearing completion of a charter template for other c
 ## By-Laws
 
 The Society reviewed and amended its by-laws at the annual meeting in 2018. 
-The governance committee has reviewed specific points in the by-laws and is planing a comprehensive review of the by-laws early in 2021. 
+The governance committee has reviewed specific points in the by-laws and is planning a comprehensive review of the by-laws early in 2021. 
 
 ## Recommendations
 
