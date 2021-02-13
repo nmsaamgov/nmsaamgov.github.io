@@ -1,10 +1,12 @@
 ---
 title: "Governance Committee Report: Meeting Nov19, 2020"
-date: "November 19, 2020"
+date: 2021-02-13
 author: "Steven Malins, DOM (Committee Chairperson)"
 ---
 
-**DRAFT**
+**Approved** 13th of February, 2021
+
+---
 
 The governance committee met on the 19th of November, 2020 at 7pm MST.
 The following members were present:
@@ -35,7 +37,3 @@ The committee charter and preamble were reviewed. The preamble and changes to th
 1. That the board either develop an information governance policy, or task a committee with developing said policy; if developed by committee, it should be approved or rejected by the board as a whole;
 2. That the board develop procedures for cross-training members so that knowledge of critical functions remains resilient to individual changes in membership of the board. 
 
-----------
-
-Respectfully submitted,  
-Steven Malins (committee chairperson)  

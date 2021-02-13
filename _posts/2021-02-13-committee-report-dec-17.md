@@ -1,10 +1,12 @@
 ---
 title: "Governance Committee Report: Meeting Dec17, 2020"
-date: "December 17, 2020"
+date: 2021-02-13
 author: "Steven Malins, DOM (Committee Chairperson)"
 ---
 
-**DRAFT**
+**Approved** 13th of February, 2021
+
+---
 
 The governance committee met on the 17th of December, 2020 at 7pm MST.
 The following members were present:
@@ -32,8 +34,3 @@ The committee reviewed the draft quarterly report to the board, and approved cha
 ## Recommendations
 
 The committee will include its recommendations in the quarterly report to the board. 
-
-----------
-
-Respectfully submitted,  
-Steven Malins (committee chairperson)  
