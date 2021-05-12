@@ -1,10 +1,12 @@
 ---
 title: "Governance Committee Report: Meeting Feb13, 2020"
-date: 2020-02-13
+date: 2021-05-08
 author: Steven Malins, DOM (Committee Chairperson)
 ---
 
-**DRAFT**
+**Approved** 8th of May, 2021
+
+---
 
 The governance committee met on the 13th of February, 2021 at 10am MST. The following members were present:
 
