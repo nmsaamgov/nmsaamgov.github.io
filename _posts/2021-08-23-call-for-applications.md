@@ -8,6 +8,8 @@ Pursuant to the by-laws of the corporation, board members are elected for one ye
 2. Letter of Intent (1 page or less)
 3. CV / Resume
 
+The Conflict of Interest Policy is here: [NMSAAM Conflict of Interest Policy](https://nmsaamgov.github.io/p/nmsaam_CI_DRAFT.pdf)
+
 Applications can be submitted to [governance@nmsaam.org](mailto:governance@nmsaam.org) 
 
 The governance committee will publish a list of all completed applications prior to the annual meeting, to aid the membership in the decision making process. 
