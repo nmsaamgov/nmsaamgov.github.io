@@ -1,7 +1,7 @@
 ---
 layout: charter
 title: Corporation By Laws
-date: 2018-09-30
+date: 2024-09-15
 ---
 # ARTICLE I - NAME
 
@@ -322,7 +322,8 @@ reviewing the activities of the Society, and such other items as the
 membership and the Board of Directors may deem necessary. Notice of
 the Annual Meeting shall be given via electronic and/or conventional
 mail at least 30 days prior, with the time and place determined by the
-Board of Directors.</li>
+Board of Directors. The Board of Directors may establish procedures
+for electronic voting, and may open voting before the meeting.</li>
 
 <li>Business Meetings: The Board of Directors shall meet at least four
 times a year to conduct the business of the Society. The date, time
@@ -390,3 +391,4 @@ NMSAAM.</li>
 **History and Approvals**
 
 * *30 November, 2018* Amended and approved at the annual meeting
+* *15 September, 2024* Amended and approved at the annual meeting
